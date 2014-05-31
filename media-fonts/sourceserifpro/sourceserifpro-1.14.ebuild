@@ -1,9 +1,9 @@
 inherit font-custom
 
-DESCRIPTION="Source Serif Pro. A  font family by Multiple Designers."
+DESCRIPTION="Source Serif Pro. A serif font family by Frank Grießhammer."
 HOMEPAGE="https://code.google.com/p/googlefontdirectory/source/browse/ofl/sourceserifpro"
-LICENSE=""
+LICENSE="OFL-1.1"
 
-SRC_URI="https://googlefontdirectory.googlecode.com/hg-history/35569c9f1f79c416794298827e222279a4416718/ofl/sourceserifpro/SourceSerifPro-Bold.ttf
-	https://googlefontdirectory.googlecode.com/hg-history/35569c9f1f79c416794298827e222279a4416718/ofl/sourceserifpro/SourceSerifPro-Regular.ttf
-	https://googlefontdirectory.googlecode.com/hg-history/35569c9f1f79c416794298827e222279a4416718/ofl/sourceserifpro/SourceSerifPro-Semibold.ttf"
+SRC_URI="https://googlefontdirectory.googlecode.com/hg-history/b1f74f6f9f8acad00a275f1a7b4e7a46bc2de638/ofl/sourceserifpro/SourceSerifPro-Bold.ttf
+	https://googlefontdirectory.googlecode.com/hg-history/b1f74f6f9f8acad00a275f1a7b4e7a46bc2de638/ofl/sourceserifpro/SourceSerifPro-Regular.ttf
+	https://googlefontdirectory.googlecode.com/hg-history/b1f74f6f9f8acad00a275f1a7b4e7a46bc2de638/ofl/sourceserifpro/SourceSerifPro-Semibold.ttf"
