@@ -12,8 +12,8 @@ directory or whatever path the variable `overlays_defs` in `/etc/layman/layman.c
 defines. You should also make sure this variable isn't uncommented.
 
     cp fonts.xml /etc/layman/overlays/
-	layman -L
-	layman -a fonts
+    layman -L
+    layman -a fonts
 
 And that's it!!! You should be able to install your favorite Google Fonts now.
 
